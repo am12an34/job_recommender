@@ -1,0 +1,11 @@
+# Virtual environment (Venv)
+venv/
+.env
+
+# Django & Python files
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Vercel build & cache
+.vercel/
